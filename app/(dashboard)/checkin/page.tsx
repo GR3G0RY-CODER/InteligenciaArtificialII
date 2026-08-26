@@ -1,0 +1,1 @@
+import {Placeholder} from "@/components/dashboard/placeholder";export default function Page(){return <Placeholder title="Check-in" description="Registre acessos e acompanhe a movimentação da academia."/>}

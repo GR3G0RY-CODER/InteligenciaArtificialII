@@ -1,0 +1,1 @@
+import {Placeholder} from "@/components/dashboard/placeholder";export default function Page(){return <Placeholder title="Alunos" description="Gerencie cadastros, perfis e o histórico dos seus alunos."/>}

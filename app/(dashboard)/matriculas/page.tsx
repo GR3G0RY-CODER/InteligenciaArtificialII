@@ -1,0 +1,1 @@
+import {Placeholder} from "@/components/dashboard/placeholder";export default function Page(){return <Placeholder title="Matrículas" description="Acompanhe vínculos, vencimentos e renovações de contratos."/>}

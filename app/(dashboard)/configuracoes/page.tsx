@@ -1,0 +1,1 @@
+import {Placeholder} from "@/components/dashboard/placeholder";export default function Page(){return <Placeholder title="Configurações" description="Personalize sua academia, equipe e preferências do sistema."/>}
