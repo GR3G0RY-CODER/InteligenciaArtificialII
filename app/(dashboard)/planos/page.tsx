@@ -1,0 +1,1 @@
+import {Placeholder} from "@/components/dashboard/placeholder";export default function Page(){return <Placeholder title="Planos" description="Configure modalidades, benefícios, valores e recorrências."/>}

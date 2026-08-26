@@ -1,0 +1,2 @@
+"use client";import {useState} from "react";import {Sidebar} from "./sidebar";import {Header} from "./header";
+export function DashboardShell({children}:{children:React.ReactNode}){const [open,setOpen]=useState(false);return <div className="min-h-screen bg-slate-50"><Sidebar open={open} onClose={()=>setOpen(false)}/><div className="lg:pl-64"><Header onMenu={()=>setOpen(true)}/><main className="p-4 sm:p-6 lg:p-8">{children}</main></div></div>}
