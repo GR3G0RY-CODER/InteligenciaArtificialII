@@ -1,1 +1,3 @@
-import {Placeholder} from "@/components/dashboard/placeholder";export default function Page(){return <Placeholder title="Check-in" description="Registre acessos e acompanhe a movimentação da academia."/>}
+import {OperationsPage} from "@/components/dashboard/operations-page";
+import {operations} from "@/lib/operations";
+export default function Page(){return <OperationsPage {...operations.checkin}/>}

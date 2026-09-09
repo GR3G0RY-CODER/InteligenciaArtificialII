@@ -1,0 +1,1 @@
+import {NextResponse} from "next/server";import {db} from "@/server/db/client";export async function GET(){try{await db.select("tenants",{select:"id",limit:1});return NextResponse.json({status:"ok",database:"connected",timestamp:new Date().toISOString()})}catch{return NextResponse.json({status:"degraded",database:"unavailable",timestamp:new Date().toISOString()},{status:503})}}

@@ -1,0 +1,3 @@
+import type {PaymentProvider} from "./types";
+/** Registro desacoplado: adapters para Open Finance, bancos ou gateways obedecem ao mesmo contrato. */
+export class PaymentProviderRegistry{private providers=new Map<string,PaymentProvider>();register(id:string,provider:PaymentProvider){if(this.providers.has(id))throw new Error(`Provider ${id} já registrado`);this.providers.set(id,provider)}get(id:string){const provider=this.providers.get(id);if(!provider)throw new Error(`Provider ${id} não configurado`);return provider}list(){return [...this.providers.entries()].map(([id,p])=>({id,name:p.name}))}}
