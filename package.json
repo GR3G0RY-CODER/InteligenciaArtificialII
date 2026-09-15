@@ -1,1 +1,39 @@
-{"scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"eslint .","typecheck":"tsc --noEmit"},"dependencies":{"@hookform/resolvers":"latest","@radix-ui/react-dropdown-menu":"latest","@radix-ui/react-slot":"latest","class-variance-authority":"latest","clsx":"latest","lucide-react":"latest","next":"latest","react":"latest","react-dom":"latest","react-hook-form":"latest","recharts":"latest","tailwind-merge":"latest","zod":"latest"},"devDependencies":{"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","autoprefixer":"latest","eslint":"latest","eslint-config-next":"latest","postcss":"latest","tailwindcss":"^3.4.17","typescript":"latest"}}
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "db:seed": "node --env-file=.env scripts/seed.mjs",
+    "db:migrate": "echo \"Execute database/migrations/001_initial.sql no Supabase SQL Editor ou CLI\"",
+    "env:check": "node --env-file=.env scripts/check-environment.mjs",
+    "verify": "node scripts/verify-project.mjs"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "latest",
+    "@radix-ui/react-dropdown-menu": "latest",
+    "@radix-ui/react-slot": "latest",
+    "class-variance-authority": "latest",
+    "clsx": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "latest",
+    "recharts": "latest",
+    "tailwind-merge": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "^3.4.17",
+    "typescript": "latest"
+  }
+}

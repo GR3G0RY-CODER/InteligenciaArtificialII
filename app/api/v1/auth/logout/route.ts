@@ -1,0 +1,1 @@
+import {NextResponse} from "next/server";import {destroySession} from "@/server/auth/session";import {apiError} from "@/server/http";export async function POST(){try{await destroySession();return new NextResponse(null,{status:204})}catch(error){return apiError(error)}}
