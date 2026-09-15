@@ -92,7 +92,7 @@ if (-not $SkipChecks) {
 Write-Host "`nGymFlow preparado em: $Destination" -ForegroundColor Green
 Write-Host 'Proximos passos:' -ForegroundColor Green
 Write-Host '  1. Abra e preencha o arquivo .env'
-Write-Host '  2. Execute database/migrations/001_initial.sql no Supabase'
+Write-Host '  2. Execute database/migrations/001_initial.sql e database/migrations/002_operations.sql no Supabase'
 Write-Host '  3. Execute npm run db:seed'
 Write-Host '  4. Configure o webhook Stripe'
 Write-Host '  5. Execute npm run dev'

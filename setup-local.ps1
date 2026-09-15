@@ -69,7 +69,7 @@ if (-not $SkipChecks) {
 }
 
 Write-Host "`nInstalacao local concluida." -ForegroundColor Green
-Write-Host 'Edite o .env, aplique database/migrations/001_initial.sql e execute npm run db:seed.'
+Write-Host 'Edite o .env, aplique database/migrations/001_initial.sql e database/migrations/002_operations.sql e execute npm run db:seed.'
 Write-Host 'Para iniciar depois: npm run dev'
 
 if ($StartDevelopmentServer) {

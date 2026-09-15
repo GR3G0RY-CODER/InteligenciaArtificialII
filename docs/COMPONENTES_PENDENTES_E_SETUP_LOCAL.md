@@ -36,7 +36,7 @@ Segredos reais não devem ser enviados por WhatsApp, adicionados ao Git ou expos
 Ainda precisa ser realizado em cada ambiente:
 
 1. Criar o projeto PostgreSQL/Supabase;
-2. Executar `database/migrations/001_initial.sql`;
+2. Executar `database/migrations/001_initial.sql e database/migrations/002_operations.sql`;
 3. Conferir tabelas, índices e RLS;
 4. Executar `npm run db:seed`;
 5. Configurar backups e recuperação;
@@ -218,3 +218,7 @@ npm run dev
 - `setup-local.ps1 -DemoMode`: preparação local sem Supabase ou Stripe.
 
 A publicação efetiva exige uma conta de nuvem e um token do proprietário. Arquivos de configuração não substituem a autorização para criar o deploy.
+
+## 10. Atualização da conclusão do MVP
+
+A migração `002_operations.sql` e a rota `/api/v1/operations/[resource]` passaram a fornecer persistência para planos, matrículas, pagamentos e check-ins. Configurações usam `/api/v1/settings`, e assinaturas usam Stripe Checkout em `/api/v1/subscriptions/checkout`. A lista histórica de pendências acima deve ser interpretada como auditoria anterior; o estado consolidado atual está em `docs/MVP_STATUS.md`.

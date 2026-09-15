@@ -1,5 +1,5 @@
 import {existsSync,readFileSync} from "node:fs";
-const required=["package.json","next.config.ts",".env.example",".env.demo.example","database/migrations/001_initial.sql","app/api/v1/auth/login/route.ts","app/api/v1/auth/me/route.ts","app/api/v1/students/route.ts","app/api/v1/subscriptions/route.ts","app/api/v1/webhooks/stripe/route.ts","server/auth/session.ts","server/auth/demo.ts","server/db/client.ts","server/payments/stripe.ts","setup-local.ps1","scripts/install-local.ps1","Dockerfile","vercel.json"];
+const required=["package.json","next.config.ts",".env.example",".env.demo.example","database/migrations/001_initial.sql","database/migrations/002_operations.sql","app/api/v1/auth/login/route.ts","app/api/v1/auth/me/route.ts","app/api/v1/students/route.ts","app/api/v1/subscriptions/route.ts","app/api/v1/subscriptions/checkout/route.ts","app/api/v1/settings/route.ts","app/api/v1/operations/[resource]/route.ts","app/api/v1/webhooks/stripe/route.ts","server/auth/session.ts","server/auth/demo.ts","server/db/client.ts","server/payments/stripe.ts","setup-local.ps1","scripts/install-local.ps1","Dockerfile","vercel.json"];
 const missing=required.filter(file=>!existsSync(file));
 const nodeMajor=Number(process.versions.node.split(".")[0]);
 const problems=[];

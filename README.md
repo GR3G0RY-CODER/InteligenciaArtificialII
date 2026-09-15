@@ -38,7 +38,7 @@ O contrato `PaymentProvider` isola cobranças, assinaturas, estornos e webhooks 
 O backend usa PostgreSQL/Supabase, sessões server-side em cookie `HttpOnly`, hash de senha com `scrypt`, isolamento por tenant, RBAC, auditoria, limitação de login, Stripe e webhooks idempotentes.
 
 1. Copie `.env.example` para `.env` e preencha as chaves server-side.
-2. Execute `database/migrations/001_initial.sql` no SQL Editor do projeto Supabase.
+2. Execute `database/migrations/001_initial.sql e database/migrations/002_operations.sql` no SQL Editor do projeto Supabase.
 3. Defina uma senha forte em `SEED_OWNER_PASSWORD` e execute `npm run db:seed`.
 4. Cadastre o endpoint `/api/v1/webhooks/stripe` no Stripe e configure `STRIPE_WEBHOOK_SECRET`.
 5. Execute `npm run build` e valide `/api/health` antes do deploy.
@@ -54,3 +54,7 @@ Se o projeto já foi baixado como ZIP no Windows, execute `Set-ExecutionPolicy -
 ## Demo e deploy em nuvem
 
 Para rodar uma demonstração completa sem banco ou pagamentos reais, use `.\setup-local.ps1 -DemoMode -StartDevelopmentServer` no Windows. As instruções de Vercel, container, credenciais de demonstração, produção e checklist pós-deploy estão em [`docs/DEPLOY_NUVEM.md`](docs/DEPLOY_NUVEM.md). Execute `npm run verify` para conferir se todos os componentes essenciais estão presentes.
+
+## Persistência operacional do MVP
+
+Em produção, alunos, planos, matrículas, pagamentos, check-ins e configurações utilizam APIs autenticadas e dados isolados por tenant no PostgreSQL. Em `DEMO_MODE`, as operações continuam isoladas no navegador e não afetam dados reais. Assinaturas reais utilizam Stripe Checkout hospedado; o GymFlow não coleta dados brutos de cartão.
