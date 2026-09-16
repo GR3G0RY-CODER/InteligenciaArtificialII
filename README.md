@@ -58,3 +58,7 @@ Para rodar uma demonstração completa sem banco ou pagamentos reais, use `.\set
 ## Persistência operacional do MVP
 
 Em produção, alunos, planos, matrículas, pagamentos, check-ins e configurações utilizam APIs autenticadas e dados isolados por tenant no PostgreSQL. Em `DEMO_MODE`, as operações continuam isoladas no navegador e não afetam dados reais. Assinaturas reais utilizam Stripe Checkout hospedado; o GymFlow não coleta dados brutos de cartão.
+
+## Configuração do Supabase
+
+O passo a passo de criação do projeto, chaves server-side, migrações, seed e consultas de verificação está em [`docs/SUPABASE_SETUP.md`](docs/SUPABASE_SETUP.md).

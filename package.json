@@ -6,7 +6,7 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "db:seed": "node --env-file=.env scripts/seed.mjs",
-    "db:migrate": "echo \"Execute database/migrations/001_initial.sql no Supabase SQL Editor ou CLI\"",
+    "db:migrate": "echo \"Execute, nesta ordem, database/migrations/001_initial.sql e database/migrations/002_operations.sql no Supabase SQL Editor\"",
     "env:check": "node --env-file=.env scripts/check-environment.mjs",
     "verify": "node scripts/verify-project.mjs"
   },
