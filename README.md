@@ -62,3 +62,7 @@ Em produção, alunos, planos, matrículas, pagamentos, check-ins e configuraç�
 ## Configuração do Supabase
 
 O passo a passo de criação do projeto, chaves server-side, migrações, seed e consultas de verificação está em [`docs/SUPABASE_SETUP.md`](docs/SUPABASE_SETUP.md).
+
+## Execução universal
+
+Para executar em Windows, Linux ou macOS — em demo, PostgreSQL local, Supabase, Vercel ou Docker — siga [`docs/EXECUCAO_COMPLETA.md`](docs/EXECUCAO_COMPLETA.md). O comando `npm run smoke` valida automaticamente os quatro perfis e todas as telas com o servidor iniciado.

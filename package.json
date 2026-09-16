@@ -8,7 +8,10 @@
     "db:seed": "node --env-file=.env scripts/seed.mjs",
     "db:migrate": "echo \"Execute, nesta ordem, database/migrations/001_initial.sql e database/migrations/002_operations.sql no Supabase SQL Editor\"",
     "env:check": "node --env-file=.env scripts/check-environment.mjs",
-    "verify": "node scripts/verify-project.mjs"
+    "verify": "node scripts/verify-project.mjs",
+    "smoke": "node scripts/smoke-test.mjs",
+    "db:local": "powershell -ExecutionPolicy Bypass -File scripts/db-local-up.ps1",
+    "db:local:reset": "powershell -ExecutionPolicy Bypass -File scripts/db-local-up.ps1 -Reset"
   },
   "dependencies": {
     "@hookform/resolvers": "latest",

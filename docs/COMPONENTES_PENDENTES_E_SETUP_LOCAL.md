@@ -14,7 +14,7 @@ Este documento separa o que já existe no repositório do que ainda precisa ser 
 | Stripe CLI | Recomendado | Testar e encaminhar webhooks localmente |
 | VS Code | Opcional | Edição e depuração |
 
-O repositório não contém `package-lock.json`; até que um lockfile seja gerado e versionado, use `npm install`, não `npm ci`.
+O repositório contém `package-lock.json`; use `npm ci` para uma instalação reproduzível.
 
 ## 2. Configurações externas que não podem vir prontas no Git
 
@@ -110,7 +110,7 @@ As APIs persistentes existem para autenticação, alunos e assinaturas. As inter
 - Testes end-to-end por perfil;
 - Testes de contrato do Stripe;
 - Pipeline CI/CD;
-- Lockfile versionado;
+- Lockfile versionado (concluído);
 - Dados de seed separados por ambiente;
 - Monitoramento de cobertura e regressões.
 

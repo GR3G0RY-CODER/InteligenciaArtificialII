@@ -1,0 +1,37 @@
+name: gymflow
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: gymflow
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: gymflow_postgres_local
+    ports:
+      - "54322:5432"
+    volumes:
+      - gymflow_postgres:/var/lib/postgresql/data
+      - ./database/local/00_roles.sql:/docker-entrypoint-initdb.d/00_roles.sql:ro
+      - ./database/migrations/001_initial.sql:/docker-entrypoint-initdb.d/10_initial.sql:ro
+      - ./database/migrations/002_operations.sql:/docker-entrypoint-initdb.d/20_operations.sql:ro
+      - ./database/local/99_grants.sql:/docker-entrypoint-initdb.d/99_grants.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d gymflow"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+    restart: unless-stopped
+  postgrest:
+    image: postgrest/postgrest:v12.2.8
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      PGRST_DB_URI: postgres://authenticator:gymflow_authenticator_local@postgres:5432/gymflow
+      PGRST_DB_SCHEMAS: public
+      PGRST_DB_ANON_ROLE: anon
+      PGRST_JWT_SECRET: gymflow-local-development-jwt-secret-change-in-production-2026
+    ports:
+      - "3001:3000"
+    restart: unless-stopped
+volumes:
+  gymflow_postgres:

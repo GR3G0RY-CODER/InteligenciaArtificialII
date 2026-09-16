@@ -6,3 +6,4 @@ out/
 !.env.example
 
 !.env.demo.example
+!.env.local-postgres.example
