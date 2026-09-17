@@ -1,0 +1,3025 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4605 >>
+stream
+0.11 0.16 0.25 rg
+0.31 0.27 0.90 rg
+BT
+/F2 18 Tf 48 794 Td (GymFlow  Playbook Comercial do SaaS) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 763 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 755 Td (Material de vendas, demonstrao e qualificao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 741 Td (Verso 1.0  Agosto de 2026) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 727 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 719 m 547 719 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 707 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 699 Td (1. Como usar este playbook) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 672 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 664 Td (Este documento prepara o time comercial para apresentar o GymFlow com clareza,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 650 Td (diagnosticar a operao da academia, demonstrar valor e conduzir o prximo passo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 636 Td (Ele no substitui proposta, contrato, poltica de privacidade ou homologao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 622 Td (tcnica.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 608 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 600 Td (Regra de ouro) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 582 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 574 Td (Venda o resultado, demonstre o fluxo e confirme o escopo. Nunca prometa) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 560 Td (integrao, aplicativo publicado, prazo, preo ou processamento financeiro sem) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 546 Td (validao tcnica e comercial.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 532 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 524 Td (Legenda de maturidade) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 506 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 498 Td ( Disponvel no MVP: tela e fluxo j existentes no produto.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 484 Td ( Backend disponvel: endpoint, banco ou mecanismo server-side implementado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 470 Td (requer infraestrutura configurada.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 456 Td ( Requer homologao: depende de conta, credencial, contrato ou validao de) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 442 Td (terceiro.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 428 Td ( Evoluo contratvel: possibilidade de customizao, no funcionalidade pronta.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 414 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 406 m 547 406 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 394 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 386 Td (2. Posicionamento) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 359 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 351 Td (Frase principal) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 333 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 10 Tf 48 325 Td (O GymFlow centraliza a gesto da academia, a rotina do instrutor e a experincia) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 10 Tf 48 308 Td (do aluno em uma plataforma preparada para crescer com o negcio.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 291 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 283 Td (Pitch de 15 segundos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 265 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 257 Td (O GymFlow rene alunos, planos, matrculas, pagamentos, assinaturas, check-ins,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 243 Td (indicadores e treinos em um nico ambiente. O gestor ganha viso da operao, o) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 229 Td (instrutor acompanha seus alunos e o aluno acessa o treino pelo celular.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 215 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 207 Td (Pitch de 45 segundos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 189 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 181 Td (Muitas academias ainda dependem de planilhas, mensagens e sistemas separados.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 167 Td (Isso aumenta retrabalho, dificulta a cobrana e deixa o gestor sem uma viso) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 153 Td (confivel. O GymFlow organiza o ciclo completo: cadastro, matrcula, plano,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 139 Td (assinatura, pagamento, check-in e acompanhamento. A plataforma separa os acessos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 125 Td (do proprietrio, equipe, instrutor, aluno e administrao do SaaS. O objetivo ) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 111 Td (reduzir tarefas manuais, melhorar o acompanhamento e criar uma experincia mais) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 97 Td (profissional para o aluno.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 83 Td () Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 1 de 14) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 4603 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 794 Td (Problemas que atacamos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 776 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 768 Td ( Cadastros espalhados entre papel, planilha e WhatsApp;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 754 Td ( Falta de viso sobre alunos ativos, receita e inadimplncia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 740 Td ( Cobrana manual e pouca previsibilidade de receita;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 726 Td ( Dificuldade para acompanhar vencimentos e renovaes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 712 Td ( Treinos sem padronizao ou acesso fcil pelo aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 698 Td ( Pouca visibilidade sobre frequncia e adeso;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 684 Td ( Sistemas diferentes para gesto, cobrana e treino;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 670 Td ( Falta de separao segura entre perfis e unidades.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 656 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 648 Td (Resultados esperados) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 630 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 622 Td ( Operao centralizada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 608 Td ( Menos retrabalho administrativo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 594 Td ( Melhor acompanhamento das assinaturas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 580 Td ( Mais clareza sobre a jornada do aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 566 Td ( Treinos acessveis no celular;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 552 Td ( Decises apoiadas por indicadores;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 538 Td ( Base tecnolgica preparada para integraes e escala.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 524 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 516 m 547 516 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 504 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 496 Td (3. Para quem vender) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 469 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 461 Td (Academia independente) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 443 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 435 Td (Dores: equipe pequena, cobrana manual, dependncia do dono e falta de processo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 421 Td (Mensagem: Tenha controle sem aumentar a complexidade da operao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 407 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 399 Td (Academia em crescimento) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 381 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 373 Td (Dores: mais alunos, mais inadimplncia, dificuldade de delegar e acompanhar.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 359 Td (Mensagem: Crie processos e indicadores antes que o crescimento vire) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 345 Td (desorganizao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 331 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 323 Td (Rede ou franquia) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 305 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 297 Td (Dores: unidades com padres diferentes, falta de viso consolidada e permisses) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 283 Td (frgeis.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 269 Td (Mensagem: Padronize a gesto e prepare uma viso multiunidade.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 255 Td (Ateno: integraes e consolidao especficas devem ser validadas como escopo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 241 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 233 Td (Studio, box ou centro de treinamento) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 215 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 207 Td (Dores: relacionamento prximo, agenda operacional, prescrio e evoluo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 193 Td (Mensagem: Organize alunos e treinos preservando um atendimento personalizado.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 179 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 171 Td (Quem participa da compra) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 153 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 145 Td ( Proprietrio: retorno, controle, receita e crescimento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 131 Td ( Gerente: rotina, equipe e indicadores;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 117 Td ( Financeiro: cobrana, conciliao e inadimplncia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 103 Td ( Instrutor: prescrio e acompanhamento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 89 Td ( TI/consultoria: segurana, integrao e implantao.) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 2 de 14) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 3906 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 786 m 547 786 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 774 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 766 Td (4. Mapa completo do produto) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 739 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 731 Td (4.1 Site e entrada) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 704 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 696 Td (Landing page  Disponvel no MVP) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 678 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 670 Td ( Apresentao da proposta de valor;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 656 Td ( Benefcios e recursos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 642 Td ( Comparao entre processos desconectados e operao centralizada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 628 Td ( Indicadores demonstrativos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 614 Td ( Chamadas para acesso e demonstrao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 600 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 592 Td (Como vender: A marca j nasce com uma apresentao profissional e uma jornada) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 578 Td (clara at o acesso.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 564 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 556 Td (Login e perfis  Backend disponvel) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 538 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 530 Td ( E-mail e senha;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 516 Td ( Identificador da academia para isolamento do tenant;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 502 Td ( Sesso server-side;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 488 Td ( Redirecionamento conforme perfil;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 474 Td ( Logout e revogao de sesso;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 460 Td ( Perfis de proprietrio, administrador, superadmin, instrutor e aluno.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 446 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 438 Td (Como vender: Cada pessoa acessa o que precisa, sem misturar a experincia do) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 424 Td (gestor com a do aluno.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 410 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 402 m 547 402 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 390 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 382 Td (4.2 Portal do proprietrio e administrador) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 355 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 347 Td (Dashboard  Disponvel no MVP) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 329 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 321 Td ( Viso geral da academia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 307 Td ( Alunos ativos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 293 Td ( Receita mensal;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 279 Td ( Check-ins do dia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 265 Td ( Pagamentos pendentes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 251 Td ( Grfico de receita;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 237 Td ( Grfico de novos alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 223 Td ( Check-ins recentes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 209 Td ( Pagamentos recentes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 195 Td ( Aes rpidas.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 181 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 173 Td (Demonstrao: comece pelo dashboard e pergunte qual indicador o gestor demora mais) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 159 Td (para descobrir hoje.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 145 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 137 Td (Alunos  MVP + API de backend) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 119 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 111 Td ( Lista de alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 97 Td ( Pesquisa;) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 3 de 14) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 4123 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td ( Status;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td ( Plano;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td ( Contato;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 752 Td ( Cadastro;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 738 Td ( Dados fsicos e objetivo no modelo persistente;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 724 Td ( Isolamento por academia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 710 Td ( Auditoria da criao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 696 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 688 Td (Como vender: O aluno deixa de ser apenas um nome em uma planilha e passa a ter) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 674 Td (uma jornada organizada.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 660 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 652 Td (Planos  Disponvel no MVP; persistncia completa deve ser homologada) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 634 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 626 Td ( Nome do plano;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 612 Td ( Valor;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 598 Td ( Recorrncia mensal, trimestral ou anual;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 584 Td ( Quantidade de alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 570 Td ( Status;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 556 Td ( Estrutura no banco para preo, moeda, ciclo e preo do provedor.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 542 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 534 Td (Como vender: Planos padronizados facilitam matrcula, cobrana e anlise da) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 520 Td (carteira.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 506 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 498 Td (Matrculas  Disponvel no MVP; persistncia completa deve ser homologada) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 480 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 472 Td ( Vnculo entre aluno e plano;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 458 Td ( Data de incio;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 444 Td ( Vencimento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 430 Td ( Status vigente, pendente ou encerrado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 416 Td ( Busca e cadastro visual.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 402 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 394 Td (Como vender: O time visualiza rapidamente quem est vigente, prximo do) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 380 Td (vencimento ou precisa de ao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 366 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 358 Td (Pagamentos  Disponvel no MVP; integrao financeira requer homologao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 340 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 332 Td ( Aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 318 Td ( Valor;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 304 Td ( Mtodo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 290 Td ( Data;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 276 Td ( Status pago, pendente ou cancelado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 262 Td ( Estrutura persistente de pagamentos no banco.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 248 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 240 Td (Como vender: A equipe encontra a situao financeira sem consultar vrias) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 226 Td (fontes.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 212 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 204 Td (Assinaturas e cobrana  MVP + backend Stripe) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 186 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 178 Td ( Receita recorrente;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 164 Td ( Assinaturas ativas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 150 Td ( Indicador de adimplncia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 136 Td ( Plano e valor;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 122 Td ( Meio de pagamento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 108 Td ( Prxima cobrana;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 94 Td ( Status da assinatura;) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 4 de 14) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 4009 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td ( Criao server-side de cliente e assinatura;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td ( Webhooks para atualizar eventos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td ( Idempotncia para reduzir cobranas duplicadas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 752 Td ( Registro persistente de pagamentos.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 738 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 730 Td (Requer homologao: conta Stripe, preos, meios habilitados, webhook, regras de) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 716 Td (cancelamento, estorno e ambiente de produo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 702 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 694 Td (Como vender: A recorrncia transforma cobrana em processo e d mais) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 680 Td (previsibilidade ao gestor.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 666 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 658 Td (Check-in  Disponvel no MVP; persistncia completa deve ser homologada) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 640 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 632 Td ( Registro de entrada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 618 Td ( Aluno e plano;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 604 Td ( Data e horrio;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 590 Td ( Status liberado ou bloqueado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 576 Td ( Histrico visual.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 562 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 554 Td (Como vender: O acesso passa a fazer parte do histrico do aluno e dos indicadores) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 540 Td (da operao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 526 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 518 Td (Configuraes  Disponvel no MVP) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 500 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 492 Td ( Dados da academia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 478 Td ( Unidade;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 464 Td ( CNPJ e telefone;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 450 Td ( Fuso horrio;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 436 Td ( Moeda;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 422 Td ( Preferncia de lembretes.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 408 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 400 m 547 400 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 388 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 380 Td (4.3 Portal do instrutor  Disponvel no MVP) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 353 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 345 Td ( Carteira de alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 331 Td ( Busca por aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 317 Td ( Objetivo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 303 Td ( Frequncia semanal;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 289 Td ( Treino atribudo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 275 Td ( Avaliaes da semana;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 261 Td ( Adeso aos treinos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 247 Td ( Acesso  ficha.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 233 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 225 Td (Como vender: O instrutor encontra rapidamente quem acompanha, qual o objetivo e) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 211 Td (qual treino est ativo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 197 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 189 Td (Pergunta de valor: Quanto tempo sua equipe perde procurando ou reconstruindo) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 175 Td (fichas?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 161 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 153 m 547 153 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 141 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 133 Td (4.4 Experincia mobile-first do aluno ) Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 111 Td (Disponvel no MVP) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 84 Td () Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 5 de 14) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 4131 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td ( Treino do dia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td ( Progresso mensal;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td ( Sequncia atual;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 752 Td ( Meta semanal;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 738 Td ( Frequncia planejada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 724 Td ( Objetivo e intensidade;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 710 Td ( Peso e altura;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 696 Td ( IMC de referncia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 682 Td ( Exerccios e aparelhos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 668 Td ( Sries, repeties e tempo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 654 Td ( Referncia demonstrativa de carga;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 640 Td ( Orientaes de postura;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 626 Td ( Links de referncia no YouTube;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 612 Td ( Navegao inferior para celular;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 598 Td ( Avisos explcitos de segurana.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 584 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 576 Td (Como vender: O aluno leva o treino no bolso, entende a sequncia e encontra) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 562 Td (orientaes em uma interface simples.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 548 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 540 Td (No prometer: prescrio mdica, diagnstico, preveno garantida de leses ou) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 526 Td (carga automaticamente segura. A confirmao profissional continua obrigatria.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 512 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 504 m 547 504 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 492 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 484 Td (4.5 Console do superadmin  Disponvel no MVP) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 457 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 449 Td ( Viso de academias clientes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 435 Td ( Usurios ativos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 421 Td ( Disponibilidade e latncia demonstrativas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 407 Td ( Planos do SaaS;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 393 Td ( Identidade visual por tokens controlados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 379 Td ( Cor principal e nome do produto;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 365 Td ( Representao de feature flags;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 351 Td ( Ambientes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 337 Td ( Webhooks;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 323 Td ( Auditoria;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 309 Td ( Base multi-tenant.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 295 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 287 Td (Como vender para investidor ou parceiro: O produto foi pensado como plataforma,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 273 Td (no apenas como painel de uma nica academia.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 259 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 251 Td (No prometer: edio arbitrria de cdigo pelo navegador. A personalizao deve) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 237 Td (ocorrer por configuraes e componentes aprovados.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 223 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 215 m 547 215 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 203 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 195 Td (4.6 Segurana e arquitetura  Backend disponvel) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 168 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 160 Td ( PostgreSQL/Supabase;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 146 Td ( Multi-tenancy;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 132 Td ( RBAC;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 118 Td ( Senhas com scrypt e salt;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 104 Td ( Sesses revogveis;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 90 Td ( Cookie HttpOnly, Secure em produo e SameSite;) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 6 de 14) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 4393 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td ( Token armazenado como hash;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td ( Limitao de tentativas de login;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td ( Validao de entrada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 752 Td ( Auditoria;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 738 Td ( Row Level Security habilitado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 724 Td ( Health check;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 710 Td ( Headers de segurana;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 696 Td ( Segredos exclusivamente server-side;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 682 Td ( Migrao SQL versionada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 668 Td ( Seed com senha forte.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 654 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 646 Td (Como vender: A segurana no  apenas visual: a base prev isolamento, sesso no) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 632 Td (servidor, auditoria e segredos fora do navegador.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 618 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 610 Td (No prometer: certificao, compliance ou invulnerabilidade sem auditoria externa) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 596 Td (e operao homologada.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 582 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 574 m 547 574 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 562 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 554 Td (5. Roteiro de reunio comercial  45 minutos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 527 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 519 Td (05 min: abertura) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 501 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 493 Td (Obrigado pelo tempo. Antes de mostrar o GymFlow, quero entender como vocs) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 479 Td (administram alunos, cobranas, acesso e treinos hoje. Assim eu foco no que) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 465 Td (realmente pode gerar resultado.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 451 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 443 Td (515 min: diagnstico) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 425 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 417 Td (1. Quantos alunos ativos e quantas unidades vocs tm?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 403 Td (2. Quais ferramentas usam para cadastro, matrcula e cobrana?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 389 Td (3. Como descobrem a inadimplncia?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 375 Td (4. Quanto tempo a equipe gasta com cobrana manual?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 361 Td (5. Como o aluno recebe e acompanha o treino?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 347 Td (6. Como o instrutor atualiza fichas?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 333 Td (7. Como  registrado o check-in?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 319 Td (8. Quais indicadores o proprietrio acompanha semanalmente?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 305 Td (9. Existem integraes obrigatrias?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 291 Td (10. Quem decide e quem participa da implantao?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 277 Td (11. Existe oramento e prazo desejado?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 263 Td (12. Qual seria o resultado mnimo para justificar a troca?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 249 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 241 Td (1530 min: demonstrao guiada) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 223 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 215 Td (1. Landing e proposta de valor  2 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 201 Td (2. Login e separao de perfis  2 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 187 Td (3. Dashboard do gestor  4 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 173 Td (4. Aluno, plano e matrcula  3 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 159 Td (5. Assinatura e pagamento  4 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 145 Td (6. Check-in  2 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 131 Td (7. Portal do instrutor  3 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 117 Td (8. rea mobile do aluno  4 min;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 103 Td (9. Superadmin e arquitetura  apenas quando relevante.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 89 Td () Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 7 de 14) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 4480 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 794 Td (3037 min: conexo com a dor) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 776 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 768 Td (Pelo que voc comentou, os maiores ganhos estariam em [dor 1], [dor 2] e [dor 3].) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 754 Td (O GymFlow organiza esses pontos em uma jornada nica. Faz sentido priorizarmos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 740 Td (esses trs processos na implantao?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 726 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 718 Td (3742 min: proposta de prximo passo) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 700 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 692 Td ( Definir nmero de alunos, usurios e unidades;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 678 Td ( Registrar integraes obrigatrias;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 664 Td ( Confirmar migrao de dados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 650 Td ( Definir plano e implantao;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 636 Td ( Agendar validao tcnica, quando necessria.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 622 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 614 Td (4245 min: fechamento) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 596 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 588 Td (Se enviarmos uma proposta com esse escopo, quem precisa aprovar? H algum ponto) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 574 Td (tcnico ou comercial que impediria o avano?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 560 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 552 m 547 552 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 540 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 532 Td (6. Demonstrao de 10 minutos) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 505 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 497 Td (1. Problema: Planilhas e sistemas separados tiram visibilidade.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 483 Td (2. Dashboard: apresente os quatro indicadores.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 469 Td (3. Aluno: mostre busca e cadastro.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 455 Td (4. Assinatura: mostre recorrncia e status.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 441 Td (5. Instrutor: mostre carteira e objetivos.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 427 Td (6. Aluno mobile: mostre treino, postura e progresso.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 413 Td (7. Fechamento: Gesto, equipe e aluno conectados em uma nica jornada.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 399 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 391 m 547 391 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 379 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 371 Td (7. Objees e respostas) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 344 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 336 Td (J uso planilha e funciona.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 318 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 310 Td (Planilha pode funcionar com pouco volume, mas depende de atualizao manual e) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 296 Td (normalmente no conecta cobrana, acesso e treino. O ponto no  eliminar uma) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 282 Td (planilha por esttica;  reduzir dependncia de tarefas manuais e criar uma viso) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 268 Td (operacional.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 254 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 246 Td (J tenho outro sistema.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 228 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 220 Td (timo, ento devemos comparar processos, no apenas telas. Quais tarefas ainda) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 206 Td (acontecem fora do sistema atual? Se no houver ganho mensurvel, no faz sentido) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 192 Td (trocar.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 178 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 170 Td ( caro.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 152 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 144 Td (Vamos comparar com o custo do retrabalho, da inadimplncia no acompanhada e do) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 130 Td (tempo do gestor. Tambm podemos implantar por etapas, comeando pelos processos de) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 116 Td (maior retorno.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 102 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 94 Td (Meus funcionrios no vo usar.) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 8 de 14) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 4691 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 786 Td (A implantao deve incluir responsveis, treinamento e um fluxo simples por) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 772 Td (perfil. O instrutor e o aluno no recebem o mesmo painel administrativo; cada um) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 758 Td (v uma experincia adequada  rotina.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 744 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 736 Td (O pagamento  seguro?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 718 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 710 Td (As credenciais ficam no backend e o provedor recebe os dados financeiros por) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 696 Td (fluxo seguro. A entrada em produo depende de homologao da conta, webhook,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 682 Td (poltica de estorno e meios habilitados. No armazenamos dados brutos de carto no) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 668 Td (navegador.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 654 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 646 Td (Tem aplicativo?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 628 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 620 Td (Hoje existe uma experincia web mobile-first para o aluno. PWA ou aplicativo) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 606 Td (publicado em loja deve constar como evoluo ou escopo contratado; no) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 592 Td (apresentamos a verso atual como aplicativo nativo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 578 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 570 Td (Integra com meu banco/catraca/ERP?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 552 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 544 Td (A arquitetura prev adapters e APIs, mas precisamos validar o fornecedor, a) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 530 Td (documentao e o fluxo. S confirmamos uma integrao depois da anlise tcnica.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 516 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 508 Td (Os treinos substituem o instrutor?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 490 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 482 Td (No. A plataforma organiza e entrega a prescrio. Cargas, postura e vdeos so) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 468 Td (referncias e precisam da superviso do profissional responsvel.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 454 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 446 Td (Est pronto para produo?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 428 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 420 Td (A base de backend, banco, autenticao e assinatura est implementada. A ativao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 406 Td (produtiva exige provisionamento, migrao, credenciais, homologao financeira,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 392 Td (backups e observabilidade. A proposta deve registrar quais mdulos sero) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 378 Td (homologados na implantao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 364 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 356 m 547 356 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 344 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 336 Td (8. Qualificao comercial) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 309 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 301 Td (Lead com alta aderncia) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 283 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 275 Td ( Mais de 150 alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 261 Td ( Cobrana manual;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 247 Td ( Equipe usando mltiplas ferramentas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 233 Td ( Proprietrio sem indicadores confiveis;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 219 Td ( Interesse em melhorar experincia do aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 205 Td ( Responsvel e prazo definidos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 191 Td ( Disposio para implantao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 177 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 169 Td (Sinais de risco) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 151 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 143 Td ( Exige todas as integraes sem oramento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 129 Td ( Quer processamento real sem homologao;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 115 Td ( No possui responsvel pela implantao;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 101 Td ( Espera migrao ilimitada gratuita;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 87 Td ( Solicita prescrio automtica sem profissional;) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 9 de 14) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 3935 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td ( Confunde MVP com sistema j certificado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td ( No aceita contrato ou poltica de dados.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 758 Td (Critrio de avano) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 740 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 732 Td (O lead deve ter ao menos: dor clara, responsvel, escopo inicial, volume) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 718 Td (aproximado e prximo passo com data.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 704 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 696 m 547 696 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 684 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 676 Td (9. Estrutura comercial sugerida) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 649 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 641 Td (Os valores so referncias e devem ser aprovados pela direo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 627 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 619 Td (Start  sugesto de R$ 299/ms) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 601 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 593 Td ( Uma unidade;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 579 Td ( At 150 alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 565 Td ( Gesto essencial;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 551 Td ( Usurios administrativos limitados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 537 Td ( Suporte padro.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 523 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 515 Td (Growth  sugesto de R$ 599/ms) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 497 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 489 Td ( At 500 alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 475 Td ( Assinaturas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 461 Td ( Portal do instrutor;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 447 Td ( rea mobile do aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 433 Td ( Relatrios e suporte prioritrio.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 419 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 411 Td (Scale  sugesto de R$ 999 a R$ 1.499/ms) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 393 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 385 Td ( Maior volume;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 371 Td ( Mais unidades e usurios;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 357 Td ( Integraes contratadas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 343 Td ( Permisses e indicadores avanados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 329 Td ( Condies de suporte definidas em contrato.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 315 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 307 Td (Implantao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 289 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 281 Td ( Pequena: R$ 1.500 a R$ 3.000;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 267 Td ( Mdia: R$ 3.000 a R$ 7.000;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 253 Td ( Rede, migrao ou integrao: oramento tcnico.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 239 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 231 Td (Nunca conceder sem aprovao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 213 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 205 Td ( Integrao gratuita;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 191 Td ( Customizao ilimitada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 177 Td ( Migrao sem limite de registros;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 163 Td ( SLA no contratado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 149 Td ( Iseno permanente;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 135 Td ( Exclusividade;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 121 Td ( Transferncia de propriedade intelectual.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 107 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 99 m 547 99 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 87 Td () Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 10 de 14) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Length 4644 >>
+stream
+0.11 0.16 0.25 rg
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 794 Td (10. Mensagens prontas) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 767 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 759 Td (WhatsApp  primeiro contato) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 741 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 733 Td (Ol, [nome]. Sou [vendedor] do GymFlow. Ajudamos academias a centralizar alunos,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 719 Td (matrculas, cobranas, check-ins e treinos em uma nica plataforma. Gostaria de) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 705 Td (entender como vocs organizam esses processos hoje e mostrar uma demonstrao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 691 Td (rpida. Podemos conversar por 20 minutos em [opo 1] ou [opo 2]?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 677 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 669 Td (WhatsApp  aps demonstrao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 651 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 643 Td (Obrigado pela conversa, [nome]. Pelo diagnstico, os principais ganhos para vocs) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 629 Td (seriam [ganho 1], [ganho 2] e [ganho 3]. Vou preparar o escopo considerando) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 615 Td ([alunos/unidades/integraes]. Nosso prximo passo ficou para [data e ao].) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 601 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 593 Td (E-mail  convite) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 575 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 567 Td (Assunto: Gesto, cobrana e treino em uma nica plataforma) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 553 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 545 Td (Ol, [nome]. O GymFlow foi criado para centralizar a operao da academia e) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 531 Td (conectar proprietrio, equipe, instrutor e aluno. Em uma demonstrao curta,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 517 Td (mostramos o dashboard, a jornada de matrcula, assinaturas, check-in e treino) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 503 Td (mobile. Posso reservar [data/hora] para entender o cenrio de vocs?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 489 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 481 Td (E-mail  proposta) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 463 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 455 Td (Assunto: Proposta GymFlow  [academia]) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 441 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 433 Td (Conforme nosso diagnstico, a proposta prioriza [processos]. O escopo considera) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 419 Td ([volume], [unidades], [usurios], [migrao] e [integraes]. Resultados) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 405 Td (esperados: [resultado 1], [resultado 2] e [resultado 3]. Pontos que dependem de) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 391 Td (homologao esto identificados separadamente. Prximo passo sugerido: validao e) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 377 Td (aceite at [data].) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 363 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 355 Td (Reativao de lead) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 337 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 329 Td (Ol, [nome]. Na nossa ltima conversa, [dor] era uma prioridade. Isso continua) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 315 Td (relevante? O GymFlow evoluiu a base de autenticao, banco e assinaturas. Se fizer) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 301 Td (sentido, revisamos o cenrio em 15 minutos e definimos se vale avanar.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 287 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 279 m 547 279 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 267 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 259 Td (11. Estrutura da proposta) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 232 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 224 Td (1. Contexto do cliente;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 210 Td (2. Problemas identificados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 196 Td (3. Objetivos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 182 Td (4. Mdulos includos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 168 Td (5. Usurios, unidades e volume;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 154 Td (6. Migrao de dados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 140 Td (7. Integraes;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 126 Td (8. Responsabilidades do fornecedor;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 112 Td (9. Responsabilidades do cliente;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 98 Td (10. Implantao e treinamento;) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 11 de 14) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Length 3873 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td (11. Critrios de aceite;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td (12. Mensalidade e custos adicionais;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td (13. Prazo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 752 Td (14. Suporte e SLA;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 738 Td (15. Segurana e tratamento de dados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 724 Td (16. Itens fora do escopo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 710 Td (17. Validade da proposta;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 696 Td (18. Assinaturas.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 682 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 674 m 547 674 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 662 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 654 Td (12. Checklist antes da proposta) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 627 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 619 Td (? Quantidade de alunos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 605 Td (? Quantidade de unidades;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 591 Td (? Perfis e usurios;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 577 Td (? Dados para migrao;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 563 Td (? Provedor de pagamentos;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 549 Td (? Catraca ou controle de acesso;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 535 Td (? ERP, contabilidade ou emisso fiscal;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 521 Td (? WhatsApp, SMS e e-mail;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 507 Td (? Identidade visual;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 493 Td (? Aplicativo web, PWA ou nativo;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 479 Td (? Treinamento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 465 Td (? SLA;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 451 Td (? Responsvel tcnico;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 437 Td (? Responsvel comercial;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 423 Td (? Prazo e oramento;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 409 Td (? Itens sujeitos a homologao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 395 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 387 m 547 387 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 375 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 367 Td (13. O que o vendedor pode e no pode afirmar) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 340 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 332 Td (Pode afirmar) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 314 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 306 Td ( Existe interface para os perfis apresentados;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 292 Td ( Existe base multi-tenant e RBAC;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 278 Td ( Existe banco e migrao versionada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 264 Td ( Existe autenticao server-side;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 250 Td ( Existe API para alunos e assinaturas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 236 Td ( Existe integrao Stripe no backend;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 222 Td ( Existe validao de webhook e idempotncia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 208 Td ( Existe experincia mobile-first do aluno;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 194 Td ( O produto pode receber evolues mediante escopo.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 180 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 172 Td (No pode afirmar sem validao) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 154 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 146 Td ( Integra com qualquer banco;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 132 Td ( Aceita qualquer catraca;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 118 Td ( Est publicado nas lojas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 104 Td (  certificado;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 90 Td (  impossvel de invadir;) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 12 de 14) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Length 3976 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td ( Elimina inadimplncia;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 780 Td ( Evita leses;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 766 Td ( A carga  automaticamente segura;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 752 Td ( A implantao  imediata;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 738 Td ( Tudo est incluso;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 724 Td ( Processa pagamentos sem configurao.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 710 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 702 m 547 702 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 690 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 682 Td (14. Fechamentos recomendados) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 655 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 647 Td (Fechamento por prximo passo) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 629 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 621 Td (Faz sentido avanarmos para a validao tcnica e uma proposta com esses trs) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 607 Td (processos prioritrios?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 593 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 585 Td (Fechamento por escolha) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 567 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 559 Td (Para o cenrio de vocs, prefere comear pela gesto e depois ativar cobrana, ou) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 545 Td (implantar gesto e assinatura na mesma etapa?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 531 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 523 Td (Fechamento por compromisso) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 505 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 497 Td (Se confirmarmos [integrao], [prazo] e [valor], existe outro impedimento para o) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 483 Td (aceite?) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 469 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F2 11 Tf 48 461 Td (Fechamento de piloto) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 443 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 435 Td (Podemos selecionar uma unidade e um grupo controlado de usurios, medir adoo e) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 421 Td (validar os critrios antes da expanso.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 407 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 399 m 547 399 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 387 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 379 Td (15. Indicadores para o time comercial) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 352 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 344 Td ( Leads qualificados por ms;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 330 Td ( Demonstraes agendadas e realizadas;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 316 Td ( Converso por etapa;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 302 Td ( Ticket mdio;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 288 Td ( Receita recorrente contratada;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 274 Td ( Custo de aquisio;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 260 Td ( Ciclo mdio de venda;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 246 Td ( Motivos de perda;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 232 Td ( Tempo de implantao;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 218 Td ( Adoo aps 30 dias;) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 204 Td ( Cancelamentos e expanso.) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 190 Td () Tj
+ET
+0.80 0.83 0.88 RG 48 182 m 547 182 l S
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 170 Td () Tj
+ET
+0.31 0.27 0.90 rg
+BT
+/F2 14 Tf 48 162 Td (16. Encerramento) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 135 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 10 Tf 48 127 Td (GymFlow conecta gesto, equipe e aluno. A venda comea com um diagnstico honesto,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 10 Tf 48 110 Td (avana com uma demonstrao focada em resultado e termina com um escopo claro,) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 10 Tf 48 93 Td (homologvel e sustentvel.) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 13 de 14) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Length 440 >>
+stream
+0.11 0.16 0.25 rg
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 794 Td () Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 786 Td (Contato comercial: preencher antes de distribuir) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 772 Td (Site: preencher antes de distribuir) Tj
+ET
+0.11 0.16 0.25 rg
+BT
+/F1 9 Tf 48 758 Td (Validade deste material: revisar a cada verso do produto) Tj
+ET
+0.45 0.49 0.57 rg
+BT
+/F1 8 Tf 48 24 Td (GymFlow - Playbook Comercial | 14 de 14) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+22 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+23 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+24 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+25 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+26 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+27 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+28 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+29 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+30 0 obj
+<< /Type /Page /Parent 31 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 16 0 R >>
+endobj
+31 0 obj
+<< /Type /Pages /Kids [17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R] /Count 14 >>
+endobj
+32 0 obj
+<< /Type /Catalog /Pages 31 0 R >>
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004871 00000 n 
+0000009526 00000 n 
+0000013484 00000 n 
+0000017659 00000 n 
+0000021720 00000 n 
+0000025903 00000 n 
+0000030348 00000 n 
+0000034881 00000 n 
+0000039625 00000 n 
+0000043613 00000 n 
+0000048310 00000 n 
+0000052236 00000 n 
+0000056265 00000 n 
+0000056757 00000 n 
+0000056895 00000 n 
+0000057033 00000 n 
+0000057171 00000 n 
+0000057309 00000 n 
+0000057447 00000 n 
+0000057585 00000 n 
+0000057723 00000 n 
+0000057862 00000 n 
+0000058001 00000 n 
+0000058140 00000 n 
+0000058279 00000 n 
+0000058418 00000 n 
+0000058557 00000 n 
+0000058696 00000 n 
+0000058847 00000 n 
+trailer
+<< /Size 33 /Root 32 0 R >>
+startxref
+58898
+%%EOF

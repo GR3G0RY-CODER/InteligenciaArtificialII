@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.log
+.env*
+!.env.example
+
+!.env.demo.example
+!.env.local-postgres.example
